@@ -39,7 +39,7 @@ const AboutUs: React.FC<AboutUsProps> = ({ config }) => {
           <div className="w-full max-w-4xl aspect-video rounded-3xl overflow-hidden shadow-lg border-4 border-sky-100">
             <iframe 
               className="w-full h-full"
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+              src="https://www.youtube.com/embed/dQw4w9WgXcQ" /** video de referencia  */
               title="Video de Atención al Cliente - Dental Premium" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
