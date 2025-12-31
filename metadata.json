@@ -1,0 +1,8 @@
+{
+  "name": "Dental Premium Pro",
+  "description": "Sistema Odontológico Integral con IA Híbrida (Gemini/Ollama) y Firebase Realtime.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
